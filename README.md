@@ -1,2 +1,3 @@
-# TIC_TAC_TOE_Anchor-Angular
-simple and compatible game for fun 
+# Angular Tic-Tac-Toe PWA
+
+[Full Angular Course](https://fireship.io/courses/angular/)
