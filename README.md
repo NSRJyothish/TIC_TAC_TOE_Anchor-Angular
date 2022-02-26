@@ -10,7 +10,7 @@ https://angular.io/
 <h1 align="center">Angular - The modern web developer's platform.</h1>
 
 <p align="center">
-  <img src="https://tse4.mm.bing.net/th?id=OIP.U8DWIGYNzKQrzk18AB5D7QHaD3&pid=Api&P=0&w=345&h=180" alt="angular-logo" width="120px" height="120px"/>
+  <img src="https://tse3.mm.bing.net/th?id=OIP.rozHJB2JWpw6mFKKAbL68gHaHa&pid=Api&P=0&w=180&h=180" alt="angular-logo" width="120px" height="120px"/>
   <br>
   <i>Angular is a development platform for building mobile and desktop web applications
     <br> using Typescript/JavaScript and other languages.</i>
